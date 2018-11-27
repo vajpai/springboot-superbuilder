@@ -1,7 +1,7 @@
 # springboot-superbuilder
 Lombok @SuperBuilder demo application
 
-This project is build on Spring Boot 2.1.0 and lombok experimental version v1.18.0 for @SuperBuilder.
+This project is build on Spring Boot 2.1.0 and lombok experimental version v1.18.2 for @SuperBuilder.
 
 
 This is possible with lombok 1.18.2 (and above) using the new (experimental) annotation @SuperBuilder. The only restriction is that every class in the hierarchy must have the @SuperBuilder annotation. There is no way around putting @SuperBuilder on all subclasses, because Lombok cannot know all subclasses at compile time. See the lombok documentation for details.
