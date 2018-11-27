@@ -1,4 +1,4 @@
-package bean;
+package com.demo.springbootsuperbuilder.bean;
 
 import lombok.Builder;
 import lombok.Getter;
